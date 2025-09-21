@@ -22,24 +22,6 @@ With this dashboard, we **decode HR patterns** to help businesses:
 | ![HR ANALYTICS](https://github.com/user-attachments/assets/e50b6640-698a-44a0-9a08-c40a538ab844) |
 
 
-## ⚡ Getting Started  
-
-### 1️⃣ Download the Dashboard  
-- Grab the `.twbx` file from `/dashboard`  
-- Open it in **Tableau Desktop**  
-
-### 2️⃣ Use Your Own Data  
-- Replace `data/hr_dataset.csv` with your HR dataset  
-- Refresh data source in Tableau  
-
-### 3️⃣ Explore  
-- Apply filters 🔍  
-- Check attrition trends 📉  
-- Visualize workforce dynamics 📊  
-
----
-
-
 ## ✨ Key Insights  
 ✔ Departments with the **highest attrition**  
 ✔ Impact of **job satisfaction & salary** on retention  
