@@ -17,11 +17,10 @@ With this dashboard, we **decode HR patterns** to help businesses:
 
 ## 🖼️ Sneak Peek  
 
-| Dashboard Overview | Attrition Analysis | Demographics Breakdown |
-|--------------------|-------------------|-------------------------|
-| ![Overview](preview/dashboard_preview.png) | ![Attrition](preview/attrition_view.png) | ![Demographics](preview/demographics_view.png) |
+| Dashboard Overview |
+|--------------------|
+| ![HR ANALYTICS](https://github.com/user-attachments/assets/e50b6640-698a-44a0-9a08-c40a538ab844) |
 
----
 
 ## ⚡ Getting Started  
 
